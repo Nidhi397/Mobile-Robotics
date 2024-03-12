@@ -1,3 +1,3 @@
 # Mobile-Robotics
 
-A repository for my journey towards learning Mobile Robotics with Matlab and Simulink.
+A repository for my progress towards learning Mobile Robotics with Matlab and Simulink.
